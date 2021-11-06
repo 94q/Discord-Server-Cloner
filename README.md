@@ -30,11 +30,7 @@
 */
 ```
 
-#
 
-<img src='https://cdn.discordapp.com/attachments/859892889910771752/871768434864713809/unknown.png'>
-
-#
 
 <p align="center"> 
     <b>Informations</b><br>
