@@ -9,7 +9,7 @@
 ## Screenshots
 
 <div align="center">
-	<a href="https://github.com/NotSaksh"><img src="https://cdn.discordapp.com/attachments/908669547459018825/914122544351707206/unknown.png" alt="screenshot" /></a>
+	<a href="https://github.com/94q"><img src="https://media.discordapp.net/attachments/860199871437209600/934491928949555330/bWE59qin.png?width=1280&height=670" alt="screenshot" /></a>
 </div>
 
 ## Table of contents
